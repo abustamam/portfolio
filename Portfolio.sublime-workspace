@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"oppo",
+				"oppositeDirections"
+			],
+			[
+				"oppositeDirec",
+				"oppositeDirection"
+			],
+			[
+				"values",
+				"values"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"properties"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 258.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/portfolio/config/initializers/secret_token.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/portfolio/.gitignore",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/portfolio/Gemfile",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/lib/app.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant_rb/Gemfile",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/test/app_test.js",
+		"/Users/rasheedbustamam/.zshrc",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/Gemfile",
+		"/Users/rasheedbustamam/.bash_profile",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/sample_app/app.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/demo/template_engines.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/test/views_test.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/lib/response.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/test/router_test.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/demo/simple_node_server.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/lib/instant.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/instant/lib/router.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/express_app/server.js",
+		"/Users/rasheedbustamam/Documents/Coding/Django/mysite/mysite/settings.py",
+		"/Users/rasheedbustamam/Documents/Coding/Django/mysite/polls/models.py",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/sss.gemspec",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/parser.rex.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/style_sheet.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/parser.tab.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/rule.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/context.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/import.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/bin/sss",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/samples/import.sss",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/literal.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/parser.rex",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/sss_rb/lib/sss/parser.racc",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/app/views/posts/show.html.haml",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/app/views/posts/_form.html.haml",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/app/controllers/posts_controller.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/Gemfile",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/config/database.yml",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/README.rdoc",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/app/views/posts/index.html.haml",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/app/views/layouts/application.html.haml",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/design_patterns/index.html",
+		"/Users/rasheedbustamam/Projects/sss/lib/grammar.jison",
+		"/Users/rasheedbustamam/Projects/sss/test/compile_test.js",
+		"/Users/rasheedbustamam/Projects/sss/test/context_test.js",
+		"/Users/rasheedbustamam/Projects/sss/lib/context.js",
+		"/Users/rasheedbustamam/Projects/sss/samples/variables.sss",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/app/views/posts/new.html.haml",
+		"/Users/rasheedbustamam/Documents/Coding/Rails projects/Portfolio/config/routes.rb",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/design_patterns/utils.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/design_patterns/pony_mover.js",
+		"/Users/rasheedbustamam/Projects/sss/lib/nodes.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/design_patterns/key_codes.js",
+		"/Users/rasheedbustamam/Documents/Coding/Projects/design_patterns/vendor/jquery.js",
+		"/Users/rasheedbustamam/Projects/sss/samples/nested_rules.sss",
+		"/Users/rasheedbustamam/Projects/sss/test/parser_test.js",
+		"/Users/rasheedbustamam/Projects/sss/lib/tokens.jisonlex",
+		"/Users/rasheedbustamam/Projects/sss/lib/parser.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new",
+			"init",
+			"mini",
+			"log",
+			"toCSS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
